@@ -7,7 +7,6 @@ import {
   Alert,
   FlatList,
 } from "react-native";
-import { useFonts, Roboto_400Regular } from "@expo-google-fonts/roboto";
 
 const BACKGROUND_COLOR = "#0A0A0A";
 const ERROR_COLOR = "#808080";
